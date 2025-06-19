@@ -1,10 +1,10 @@
-🎨 Digital Art Gallery
+**🎨 Digital Art Gallery**
 
-A sophisticated, production-ready digital art gallery website inspired by cutting-edge design studios like Lusion, Cuberto, and Active Theory. Built with performance, interactivity, and aesthetic precision in mind.
+A sophisticated, production-ready digital art gallery website. Built with performance, interactivity, and aesthetic precision in mind.
 
-🚀 Features
+**🚀 Features**
 
-✨ Core Highlights
+**✨ Core Highlights**
 
 🎆 Advanced Hero Section with animated particles and magnetic cursor interactions
 
@@ -32,7 +32,7 @@ A sophisticated, production-ready digital art gallery website inspired by cuttin
 
 💎 Smooth micro-interactions and polished UI states
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 React 18
 
@@ -50,7 +50,7 @@ Intersection Observer
 
 @headlessui/react (optional for modal/transitions)
 
-📁 Project Structure
+**📁 Project Structure**
 
 src/
 ├── assets/
@@ -68,11 +68,11 @@ src/
 ├── App.tsx
 ├── main.tsx
 
-🧑‍💻 Getting Started
+**🧑‍💻 Getting Started**
 
 1. Clone the repository
 
-git clone https://github.com/your-username/digital-art-gallery.git
+git clone [https://github.com/your-username/digital-art-gallery.git](https://github.com/Nidhi-o/Modern-Interactive-Digital-Art-Gallery.git)
 cd digital-art-gallery
 
 2. Install dependencies
