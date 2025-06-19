@@ -72,7 +72,7 @@ src/
 
 1. Clone the repository
 
-git clone [https://github.com/your-username/digital-art-gallery.git](https://github.com/Nidhi-o/Modern-Interactive-Digital-Art-Gallery.git)
+git clone https://github.com/Nidhi-o/Modern-Interactive-Digital-Art-Gallery.git
 cd digital-art-gallery
 
 2. Install dependencies
